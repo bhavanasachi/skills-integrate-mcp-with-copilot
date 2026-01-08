@@ -14,3 +14,5 @@ Why is this feature important?
 **Implementation ideas**
 
 Any thoughts on how to implement it.
+
+**Suggested labels:** enhancement, help wanted
